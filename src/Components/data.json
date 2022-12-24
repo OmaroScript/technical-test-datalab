@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Cash",
+    "price": "21173.75",
+    "percent": "21.75",
+    "children": [
+      {
+        "name": "Cash",
+        "price": "21173.75",
+        "percent": "21.75",
+        "color": "rgb(255, 0, 130)",
+        "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+      }
+    ],
+    "color": "#FF007A",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "name": "Commodities",
+    "price": "1007.08",
+    "percent": "1.03",
+    "children": [
+      {
+        "name": "Gold and Other Precious Metals",
+        "price": "1007.08",
+        "percent": "1.03",
+        "color": "rgb(255, 158, 253)",
+        "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+      }
+    ],
+    "color": "#FF94EE",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    "name": "Fixed Income",
+    "price": "57749.5",
+    "percent": "59.31",
+    "children": [
+      {
+        "name": "International Developed Country Bonds",
+        "price": "1959.9",
+        "percent": "2.01",
+        "color": "rgb(179, 106, 20)",
+        "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+      },
+      {
+        "name": "International Emerging Markets Bonds",
+        "price": "3909.83",
+        "percent": "4.02",
+        "color": "rgb(200, 119, 23)",
+        "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+      },
+      {
+        "name": "US Investment Grade Corporate Bonds",
+        "price": "2976.9",
+        "percent": "3.06",
+        "color": "rgb(190, 112, 22)",
+        "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+      },
+      {
+        "name": "US Inflation Protected Bonds",
+        "price": "12906.45",
+        "percent": "13.25",
+        "color": "rgb(255, 178, 34)",
+        "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
+      },
+      {
+        "name": "US Securitized Bonds",
+        "price": "18722.8",
+        "percent": "19.23",
+        "color": "rgb(255, 216, 41)",
+        "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
+      },
+      {
+        "name": "US Treasuries",
+        "price": "17273.62",
+        "percent": "17.74",
+        "color": "rgb(255, 206, 40)",
+        "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum"
+      }
+    ],
+    "color": "#FF971D",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "name": "Stocks",
+    "price": "17442.38",
+    "percent": "17.91",
+    "children": [
+      {
+        "name": "International Developed Large Company",
+        "price": "991.4",
+        "percent": "1.02",
+        "color": "rgb(3, 95, 146)",
+        "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
+      },
+      {
+        "name": "International Developed Large Company-Fundamental",
+        "price": "1969.06",
+        "percent": "2.02",
+        "color": "rgb(4, 120, 185)",
+        "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
+      },
+      {
+        "name": "International Developed–Small Company",
+        "price": "994.84",
+        "percent": "1.02",
+        "color": "rgb(3, 95, 146)",
+        "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
+      },
+      {
+        "name": "International Emerging Markets–Fundamental",
+        "price": "995.28",
+        "percent": "1.02",
+        "color": "rgb(3, 95, 146)",
+        "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
+      },
+      {
+        "name": "US Exchange-Traded REITS",
+        "price": "4700.27",
+        "percent": "4.83",
+        "color": "rgb(6, 193, 255)",
+        "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
+      },
+      {
+        "name": "US Large Company",
+        "price": "1972.08",
+        "percent": "2.03",
+        "color": "rgb(4, 121, 186)",
+        "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
+      },
+      {
+        "name": "US Large Company–Fundamental",
+        "price": "3880.25",
+        "percent": "3.98",
+        "color": "rgb(5, 171, 255)",
+        "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
+      },
+      {
+        "name": "US Small Company–Fundamental",
+        "price": "1939.2",
+        "percent": "1.99",
+        "color": "rgb(4, 120, 184)",
+        "body": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse"
+      }
+    ],
+    "color": "#0487D0",
+    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+  }
+]
